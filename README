@@ -1,0 +1,4 @@
+docker + nginx cookbook
+move nodes/node.json to match your server (ip.json)
+run with
+$ knife solo cook docker
