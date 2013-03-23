@@ -1,1 +1,1 @@
-{"run_list":["recipe[build-essential]", "recipe[omnibus_updater]", "recipe[lxc]", "recipe[nginx]", "recipe[docker]"]}
+{"run_list":["recipe[build-essential]", "recipe[lxc]", "recipe[nginx]", "recipe[docker]"]}
